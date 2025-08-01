@@ -84,3 +84,11 @@ composer install
 
 ## Button
 <a href="https://www.google.com/" target="_blak">Bootstrap</a>
+
+## Badge
+
+[![oop](https://img.shields.io/badge/WebDesign_Github-Class-green)](https://www.google.com/)
+
+
+## Contributor
+[CHANthy-thy](https://github.com/CHANthy-thy)
