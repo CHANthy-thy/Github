@@ -53,3 +53,30 @@ normal text
     1. sub 1
     2. sub 2
     3. sub 3
+
+## Image
+![Dashboard](url.jpg)
+
+## Link 
+CSS Framework [Bootstrap](https://www.google.com/)
+
+
+## Singlie line code
+`print("Hello beautiful world")`
+
+## multiple line
+```Python
+for i in range(10):
+    print(i)
+```
+
+```html
+ <h1> Hello </h1>
+ <p> class B 2026 </p>
+```
+
+```bash
+npm i express
+pip inshtall cv2
+composer install
+```
